@@ -1,2 +1,2 @@
 # example-pephub-cli
-An example command-line interface that takes advantage of the authorization flow from PEPhub.
+An example command-line interface that takes advantage of the authorization flow from PEPhub. For more information, see the [PEPhub documentation](https://github.com/pepkit/pephub/tree/master/docs).
